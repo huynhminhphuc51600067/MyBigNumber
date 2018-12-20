@@ -3,9 +3,11 @@ Bước 1: Vào link https://drive.google.com/file/d/1aHvE0sI0UTJdy8KYntnXEH0_To
 Bước 2: Nhấp đôi chuột vào icon file AddBigNumber.jar vừa tải về để chạy chương trình.
 
 Bước 3:
-- Nhập hai số hạng vào ô "Só thứ nhất" và ô "Số thứ hai" bấm nút "Thực thi" tổng sẽ được in ra ngay bên "Kết quả" và các
-      bước làm sẽ được in dưới "Từng bước cộng".
-       - Nhấp xóa để xóa toàn bộ dữ liệu nhập vào và xuất ra vừa thực hiện.
+
+- Nhập hai số hạng vào ô "Só thứ nhất" và ô "Số thứ hai" bấm nút "Thực thi" tổng sẽ được in ra ngay bên "Kết quả" vàcác
+ bước làm sẽ được in dưới "Từng bước cộng".
+       
+- Nhấp xóa để xóa toàn bộ dữ liệu nhập vào và xuất ra vừa thực hiện.
 Một số trường hợp có thể xảy ra:
 
 -Chuỗi thứ nhất không phải là số : xuất ra thông báo "Nhập sai số thứ nhất, vui lòng nhập lại"
