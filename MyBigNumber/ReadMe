@@ -1,0 +1,6 @@
+File để tải project về chạy trên Eclipse:
+B1 Tải toàn bộ file này về.
+B2 Mở eclipse Chọn File -> Import -> General -> Existing Projects into Workspace -> Bấm Next
+B3 Đến đây bạn có thể bấm nút Browse để chọn project vừa tải 
+B4 Sau khi chọn xong các bạn bấm Finish để kết thúc.
+B5 Bấm Run để chạy
